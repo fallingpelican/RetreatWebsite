@@ -1,0 +1,176 @@
+font-family: "Lucida Console", Monaco, monospace;
+
+  font-weight: 300;
+
+  color: #163d47
+
+}
+
+header {
+
+  padding: 20px 0;
+
+}
+
+header .row,
+
+footer .row {
+
+  display: flex;
+
+  align-items: center;
+
+}
+
+header h1 {
+
+  font-family: "Lucida Console", Monaco, monospace;
+
+  font-weight: 700;
+
+  margin: 0;
+
+  color: #163d47;
+
+}
+
+header nav {
+
+  display: flex;
+
+  justify-content: flex-end;
+
+}
+
+header p {
+
+  padding: 0 20px;
+
+  margin: 0;
+
+}
+
+.jumbotron {
+
+  display: flex;
+
+  align-items: center;
+
+  background-image: url(https://stormideaswus.blob.core.windows.net/headerjunction/2014/91/6d2380c6-00e3-4f58-a911-c8aa98afa460.jpg);
+
+  background-size: cover;
+
+  color: #ffffff;
+
+  height: 500px;
+
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+
+}
+
+
+
+
+
+
+.jumbotron h2 {
+
+  font-size: 60px;
+
+  font-weight: 700;
+
+  margin: 0;
+
+  color: #135160;
+
+}
+
+
+
+
+
+
+.jumbotron h3 {
+
+  margin: 0 0 20px;
+
+  color: #fff;
+
+}
+
+
+
+
+
+
+section .row img {
+
+  margin: 0 0 30px;
+
+  width: 100%;
+
+}
+
+.gallery {
+
+  display: flex;
+
+  flex-wrap:wrap;
+
+  justify-content:center;
+  }
+  
+  .col-md-6 {
+
+  margin: 0 0 30px;
+
+}
+
+
+
+
+
+
+footer {
+
+  font-size: 12px;
+
+  padding: 20px 0;
+
+}
+
+
+
+
+
+
+footer .col-sm-8 {
+
+  display: flex;
+
+  justify-content: flex-end;
+
+}
+
+
+
+
+
+
+footer ul {
+
+  list-style: none;
+
+}
+
+
+
+
+
+
+footer li img {
+
+  width: 32px;
+
+  height: 32px;
+  }
